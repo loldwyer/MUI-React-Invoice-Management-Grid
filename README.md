@@ -56,8 +56,4 @@ npm run dev
 The terminal will display a local URL similar to:
 http://localhost:5173
 
-Open this in your browser to view the application.
----
-## Purpose of the Project
-This project was created as a demonstration of how **React and MUI DataGridPro** can be used to build an interactive invoice management interface with features commonly found in enterprise accounting systems.
 <img width="733" height="1279" alt="image" src="https://github.com/user-attachments/assets/9a866c27-1712-4368-877e-979b925b94da" />
