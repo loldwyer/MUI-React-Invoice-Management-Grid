@@ -13,12 +13,12 @@ This project demonstrates how modern data grids can be used to build financial d
 
 - Sorting and pagination (server-style simulation)
   
-  <img width="476" height="115" alt="image" src="https://github.com/user-attachments/assets/5e857144-507e-44e5-b14d-074a8cbe8355" />
+  <img width="576" height="215" alt="image" src="https://github.com/user-attachments/assets/5e857144-507e-44e5-b14d-074a8cbe8355" />
 
 - Add new invoices
 - Delete selected invoices
   
-  <img width="1590" height="38" alt="image" src="https://github.com/user-attachments/assets/53c01ce8-839d-4768-9266-8e1aed710d06" />
+  <img width="1690" height="138" alt="image" src="https://github.com/user-attachments/assets/53c01ce8-839d-4768-9266-8e1aed710d06" />
   
 - Currency formatting (€)
 - Visual invoice status indicators (Draft / Unpaid / Paid / Overdue)
