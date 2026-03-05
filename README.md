@@ -2,23 +2,23 @@
 A React + Vite demo application that showcases an **invoice management interface** built using **MUI X DataGridPro**.
 This project demonstrates how modern data grids can be used to build financial dashboards similar to those found in accounting platforms.
 ---
-<img width="1851" height="1063" alt="image" src="https://github.com/user-attachments/assets/63c4d2df-a925-4357-bd44-85a2accf064f" />
+<img width="1651" height="863" alt="image" src="https://github.com/user-attachments/assets/63c4d2df-a925-4357-bd44-85a2accf064f" />
 
 ## Features
 - Invoice table built with **MUI DataGridPro**
 - Quick search across invoices
 - Column filtering
 
-  <img width="442" height="496" alt="image" src="https://github.com/user-attachments/assets/60170f0f-1cc9-43a2-9447-e5ba70e20adb" />
+  <img width="242" height="296" alt="image" src="https://github.com/user-attachments/assets/60170f0f-1cc9-43a2-9447-e5ba70e20adb" />
 
 - Sorting and pagination (server-style simulation)
   
-  <img width="576" height="215" alt="image" src="https://github.com/user-attachments/assets/5e857144-507e-44e5-b14d-074a8cbe8355" />
+  <img width="476" height="115" alt="image" src="https://github.com/user-attachments/assets/5e857144-507e-44e5-b14d-074a8cbe8355" />
 
 - Add new invoices
 - Delete selected invoices
   
-  <img width="1690" height="138" alt="image" src="https://github.com/user-attachments/assets/53c01ce8-839d-4768-9266-8e1aed710d06" />
+  <img width="1590" height="38" alt="image" src="https://github.com/user-attachments/assets/53c01ce8-839d-4768-9266-8e1aed710d06" />
   
 - Currency formatting (€)
 - Visual invoice status indicators (Draft / Unpaid / Paid / Overdue)
