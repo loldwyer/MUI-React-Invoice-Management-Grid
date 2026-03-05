@@ -1,16 +1,59 @@
-# React + Vite
+# MUI React Invoice Management Grid
+A React + Vite demo application that showcases an **invoice management interface** built using **MUI X DataGridPro**.
+This project demonstrates how modern data grids can be used to build financial dashboards similar to those found in accounting platforms.
+---
+<img width="1851" height="1063" alt="image" src="https://github.com/user-attachments/assets/63c4d2df-a925-4357-bd44-85a2accf064f" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Invoice table built with **MUI DataGridPro**
+- Quick search across invoices
+- Column filtering
+  <img width="442" height="496" alt="image" src="https://github.com/user-attachments/assets/60170f0f-1cc9-43a2-9447-e5ba70e20adb" />
 
-Currently, two official plugins are available:
+- Sorting and pagination (server-style simulation)
+  <img width="576" height="215" alt="image" src="https://github.com/user-attachments/assets/5e857144-507e-44e5-b14d-074a8cbe8355" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new invoices
+- Delete selected invoices
+  <img width="1690" height="138" alt="image" src="https://github.com/user-attachments/assets/53c01ce8-839d-4768-9266-8e1aed710d06" />
+  
+- Currency formatting (€)
+- Visual invoice status indicators (Draft / Unpaid / Paid / Overdue)
+- Overdue rows highlighted in the grid
+- Summary totals for billed, unpaid and overdue invoices
+  <img width="566" height="67" alt="image" src="https://github.com/user-attachments/assets/761bd574-a6f9-4d44-87c8-ad1059f3ff94" />
 
-## React Compiler
+---
+## Technologies Used
+- React
+- Vite
+- Material UI (MUI)
+- MUI X DataGridPro
+- JavaScript (ES6)
+---
+## Getting Started
+### 1. Clone the repository
+git clone https://github.com/loldwyer/MUI-React-Invoice-Management-Grid.git
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
+### 2. Navigate into the project folder
+cd MUI-React-Invoice-Management-Grid
 
-## Expanding the ESLint configuration
+---
+### 3. Install dependencies
+npm install
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+### 4. Start the development server
+npm run dev
+
+---
+### 5. Open the application
+The terminal will display a local URL similar to:
+http://localhost:5173
+
+Open this in your browser to view the application.
+---
+## Purpose of the Project
+This project was created as a demonstration of how **React and MUI DataGridPro** can be used to build an interactive invoice management interface with features commonly found in enterprise accounting systems.
+<img width="733" height="1279" alt="image" src="https://github.com/user-attachments/assets/9a866c27-1712-4368-877e-979b925b94da" />
