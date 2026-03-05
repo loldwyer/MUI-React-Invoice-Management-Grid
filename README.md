@@ -8,19 +8,23 @@ This project demonstrates how modern data grids can be used to build financial d
 - Invoice table built with **MUI DataGridPro**
 - Quick search across invoices
 - Column filtering
+
   <img width="442" height="496" alt="image" src="https://github.com/user-attachments/assets/60170f0f-1cc9-43a2-9447-e5ba70e20adb" />
 
 - Sorting and pagination (server-style simulation)
+  
   <img width="576" height="215" alt="image" src="https://github.com/user-attachments/assets/5e857144-507e-44e5-b14d-074a8cbe8355" />
 
 - Add new invoices
 - Delete selected invoices
+  
   <img width="1690" height="138" alt="image" src="https://github.com/user-attachments/assets/53c01ce8-839d-4768-9266-8e1aed710d06" />
   
 - Currency formatting (€)
 - Visual invoice status indicators (Draft / Unpaid / Paid / Overdue)
 - Overdue rows highlighted in the grid
 - Summary totals for billed, unpaid and overdue invoices
+  
   <img width="566" height="67" alt="image" src="https://github.com/user-attachments/assets/761bd574-a6f9-4d44-87c8-ad1059f3ff94" />
 
 ---
