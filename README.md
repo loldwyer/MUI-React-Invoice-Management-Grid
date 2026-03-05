@@ -56,4 +56,3 @@ npm run dev
 The terminal will display a local URL similar to:
 http://localhost:5173
 
-<img width="733" height="1279" alt="image" src="https://github.com/user-attachments/assets/9a866c27-1712-4368-877e-979b925b94da" />
